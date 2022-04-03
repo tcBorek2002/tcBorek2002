@@ -7,7 +7,7 @@ I have experience with: Python, C# (WinForms, ASP.NET Core), Java (Spring boot),
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-57%20hrs%2046%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-45-blue)
 
 **🐱 My GitHub Data** 
 
@@ -88,7 +88,7 @@ C#                       1 repo              ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/tcBorek2002/tcBorek2002/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/04/2022 13:56:34 UTC
+ Last Updated on 03/04/2022 14:12:14 UTC
 <!--END_SECTION:waka-->
 
 <!--**tcBorek2002/tcBorek2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
