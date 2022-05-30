@@ -5,7 +5,7 @@ I am Borek Bandell, 20 years old living in the Netherlands. I am interested in g
 I have experience with: Python, C# (WinForms, ASP.NET Core), Java (Spring boot), JavaScript (ReactJS), HTML and CSS.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-159%20hrs%2014%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -13,23 +13,23 @@ I have experience with: Python, C# (WinForms, ASP.NET Core), Java (Spring boot),
 ⌚︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-JavaScript               10 hrs 36 mins      ████████████████████░░░░░   80.65% 
-Java                     2 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.2% 
-JSON                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.46% 
+JavaScript               10 hrs 36 mins      ████████████████████░░░░░   80.71% 
+Java                     2 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.92% 
+JSON                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.48% 
 CSS                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.7% 
-Gradle                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+Groovy                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.19%
 
 🔥 Editors: 
-VS Code                  11 hrs 1 min        █████████████████████░░░░   83.8% 
-IntelliJ                 2 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.2%
+VS Code                  11 hrs 1 min        █████████████████████░░░░   83.89% 
+IntelliJ                 2 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.11%
 
 💻 Operating System: 
-Windows                  13 hrs 9 mins       █████████████████████████   100.0%
+Windows                  13 hrs 8 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 29/05/2022 22:14:00 UTC
+ Last Updated on 30/05/2022 01:10:37 UTC
 <!--END_SECTION:waka-->
 
 <!--**tcBorek2002/tcBorek2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
