@@ -5,7 +5,7 @@ I am Borek Bandell, 20 years old living in the Netherlands. I am interested in g
 I have experience with: Python, C# (WinForms, ASP.NET Core), Java (Spring boot), JavaScript (ReactJS), HTML and CSS.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-179%20hrs%2040%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -13,23 +13,23 @@ I have experience with: Python, C# (WinForms, ASP.NET Core), Java (Spring boot),
 ⌚︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-JavaScript               6 hrs 17 mins       ██████████████░░░░░░░░░░░   55.61% 
-Java                     3 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   35.07% 
-CSS                      54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.05% 
-LOMBOK_CONFIG            8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.23% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
+JavaScript               6 hrs 5 mins        ███████████░░░░░░░░░░░░░░   46.72% 
+Java                     3 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   26.2% 
+YAML                     1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.83% 
+CSS                      54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.99% 
+JSON                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.29%
 
 🔥 Editors: 
-VS Code                  7 hrs 12 mins       ████████████████░░░░░░░░░   63.7% 
-IntelliJ                 4 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   36.3%
+VS Code                  7 hrs 45 mins       ███████████████░░░░░░░░░░   59.57% 
+IntelliJ                 5 hrs 16 mins       ██████████░░░░░░░░░░░░░░░   40.43%
 
 💻 Operating System: 
-Windows                  11 hrs 18 mins      █████████████████████████   100.0%
+Windows                  13 hrs 1 min        █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 09/06/2022 22:14:33 UTC
+ Last Updated on 10/06/2022 01:06:08 UTC
 <!--END_SECTION:waka-->
 
 <!--**tcBorek2002/tcBorek2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
