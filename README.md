@@ -5,7 +5,7 @@ I am Borek Bandell, 20 years old living in the Netherlands. I am interested in g
 I have experience with: Python, C# (WinForms, ASP.NET Core), Java (Spring boot), JavaScript (ReactJS), HTML and CSS.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-252%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-257%20hrs%2023%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -13,22 +13,22 @@ I have experience with: Python, C# (WinForms, ASP.NET Core), Java (Spring boot),
 ⌚︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-JavaScript               6 hrs 27 mins       ██████████████████░░░░░░░   74.55% 
-Markdown                 58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.19% 
-YAML                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.4% 
-Docker                   15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.05% 
-HTML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.73%
+JavaScript               11 hrs 24 mins      █████████████████████░░░░   84.74% 
+Markdown                 58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.2% 
+YAML                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.47% 
+Docker                   15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.96% 
+Other                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.27%
 
 🔥 Editors: 
-VS Code                  8 hrs 39 mins       █████████████████████████   100.0%
+VS Code                  13 hrs 27 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  8 hrs 39 mins       █████████████████████████   100.0%
+Windows                  13 hrs 27 mins      █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 27/10/2022 22:14:55 UTC
+ Last Updated on 28/10/2022 01:20:55 UTC
 <!--END_SECTION:waka-->
 
 <!--**tcBorek2002/tcBorek2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
