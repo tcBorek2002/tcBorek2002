@@ -13,19 +13,19 @@ I have experience with: Python, C# (WinForms, ASP.NET Core), Java (Spring boot),
 ⌚︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-JavaScript               3 hrs 9 mins        ████████████████████████░   98.02% 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.98%
+JavaScript               3 hrs 7 mins        ████████████████████████░   98.48% 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.52%
 
 🔥 Editors: 
-VS Code                  3 hrs 13 mins       █████████████████████████   100.0%
+VS Code                  3 hrs 10 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  3 hrs 13 mins       █████████████████████████   100.0%
+Windows                  3 hrs 10 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 22/11/2022 01:09:05 UTC
+ Last Updated on 22/11/2022 03:08:31 UTC
 <!--END_SECTION:waka-->
 
 <!--**tcBorek2002/tcBorek2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
