@@ -5,7 +5,7 @@ I am Borek Bandell, 20 years old living in the Netherlands. I am interested in g
 I have experience with: Python, C# (WinForms, ASP.NET Core), Java (Spring boot), JavaScript (ReactJS), HTML and CSS.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-362%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-361%20hrs%2011%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -30,7 +30,7 @@ Windows                  11 hrs 57 mins      ███████████�
 ```
 
 
- Last Updated on 29/01/2023 22:10:52 UTC
+ Last Updated on 30/01/2023 00:54:29 UTC
 <!--END_SECTION:waka-->
 
 <!--**tcBorek2002/tcBorek2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
