@@ -5,7 +5,7 @@ I am Borek Bandell, 20 years old living in the Netherlands. I am interested in g
 I have experience with: Python, C# (WinForms, ASP.NET Core), Java (Spring boot), JavaScript (ReactJS), HTML and CSS.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-374%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-380%20hrs%2011%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -13,22 +13,22 @@ I have experience with: Python, C# (WinForms, ASP.NET Core), Java (Spring boot),
 ⌚︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-Markdown                 44 mins             ██████████░░░░░░░░░░░░░░░   41.76 % 
-TypeScript               41 mins             █████████░░░░░░░░░░░░░░░░   38.70 % 
-Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
-SSH Config               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+TypeScript               4 hrs 24 mins       ███████████████░░░░░░░░░░   60.84 % 
+CSS                      58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+Markdown                 47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+JSON                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+HTML                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
 
 🔥 Editors: 
-VS Code                  1 hr 46 mins        █████████████████████████   100.00 % 
+VS Code                  7 hrs 15 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 46 mins        █████████████████████████   100.00 % 
+Windows                  7 hrs 15 mins       █████████████████████████   100.00 % 
 
 ```
 
 
- Last Updated on 10/02/2023 01:02:13 UTC
+ Last Updated on 10/02/2023 02:49:47 UTC
 <!--END_SECTION:waka-->
 
 <!--**tcBorek2002/tcBorek2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
