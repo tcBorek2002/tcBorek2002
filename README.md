@@ -5,7 +5,7 @@ I am Borek Bandell, 20 years old living in the Netherlands. I am interested in g
 I have experience with: Python, C# (WinForms, ASP.NET Core), Java (Spring boot), JavaScript (ReactJS), HTML and CSS.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-590%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-593%20hrs-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -13,21 +13,21 @@ I have experience with: Python, C# (WinForms, ASP.NET Core), Java (Spring boot),
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-TypeScript               8 hrs 55 mins       ██████████████████░░░░░░░   71.45 % 
-JSON                     1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
-CSS                      1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
-HTML                     56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
-XML                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+TypeScript               5 hrs 46 mins       ████████████████░░░░░░░░░   62.06 % 
+CSS                      1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+HTML                     1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
+JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+Bash                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 29 mins      █████████████████████████   100.00 % 
+VS Code                  9 hrs 18 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  12 hrs 29 mins      █████████████████████████   100.00 % 
+Windows                  9 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/05/2023 22:09:27 UTC
+ Last Updated on 25/05/2023 00:54:05 UTC
 <!--END_SECTION:waka-->
 
 <!--**tcBorek2002/tcBorek2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
