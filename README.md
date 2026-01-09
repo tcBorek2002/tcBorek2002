@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Borek Bandell, 20 years old living in the Netherlands. I am interested in general programming/coding and web development. Currently, I am a student Software Engineering at the Fontys University of Applied Sciences.
+I am Borek Bandell, 23 years old living in the Netherlands. I am interested in general programming/coding and web development. Currently, I am a student Software Engineering at the Fontys University of Applied Sciences.
 
 I have experience with: Python, C# (WinForms, ASP.NET Core), Java (Spring boot), JavaScript (ReactJS), HTML and CSS.
 
